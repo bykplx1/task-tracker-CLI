@@ -1,4 +1,4 @@
 @echo off
 
 REM Run gradlew with the passed arguments
-gradlew bootRun --quiet --args=%*
+gradlew bootRun --quiet --args="%*"
